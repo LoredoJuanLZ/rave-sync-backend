@@ -1,0 +1,12 @@
+{
+  "name": "p2p-sync-server",
+  "version": "1.0.0",
+  "description": "Servidor de señalización para rave P2P",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ws": "^8.12.0"
+  }
+}
